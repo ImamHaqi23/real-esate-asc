@@ -5,13 +5,11 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ImamHaqi23/Sekawan-test
-   cd Sekawan-test
-   npm install
+   git clone https://github.com/ImamHaqi23/real-esate-asc
 2. Navigate to the project directory:
 
     ```bash
-   cd Sekawan-test
+   cd real-esate-asc
 3. Install dependencies using npm:
 
     ```bash
